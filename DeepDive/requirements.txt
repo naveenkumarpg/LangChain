@@ -11,3 +11,6 @@ pypdf
 requests
 numpy
 pandas
+duckduckgo-search
+langchain-community
+wikipedia

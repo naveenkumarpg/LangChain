@@ -17,6 +17,9 @@ pypdf = "*"
 requests = "*"
 numpy = "*"
 pandas = "*"
+duckduckgo-search = "*"
+langchain-community = "*"
+wikipedia = "*"
 
 [dev-packages]
 ipykernel = "*"
