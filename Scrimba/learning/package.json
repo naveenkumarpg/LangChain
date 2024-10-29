@@ -16,7 +16,7 @@
     "@langchain/core": "^0.2.31",
     "@langchain/langgraph": "^0.2.2",
     "@langchain/openai": "^0.2.10",
-    "langchain": "^0.2.18",
+    "langchain": "^0.2.19",
     "langsmith": "^0.1.51"
   },
   "devDependencies": {
